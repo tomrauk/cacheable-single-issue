@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cacheable.single.issue
+---
+testFramework: spock
+sourceLanguage: groovy

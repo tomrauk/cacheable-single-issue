@@ -1,0 +1,6 @@
+micronaut:
+    application:
+        name: cacheable-single-issue
+    caches:
+        tags:
+            maximumSize: 10
